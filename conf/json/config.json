@@ -1,0 +1,20 @@
+{
+  "Building" : [
+    "ArmyCamp",
+    "Barrack",
+    "BuilderHut",
+    "ClanCastle",
+    "Defence",
+    "DefenceBase",
+    "Laboratory",
+    "Resource",
+    "Storage",
+    "TownHall",
+    "Wall"
+  ],
+  "Obstacle" : "Obstacle",
+  "Troop" : [
+    "Troop",
+    "TroopBase"
+  ]
+}
